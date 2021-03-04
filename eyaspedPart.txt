@@ -1,0 +1,5 @@
+this is our group project
+
+name  = input("what is your name")
+greeting = ("How are you," name)
+print(greeting)
